@@ -1,0 +1,52 @@
+[
+    {
+    "Roll_NO": 1,
+    "Name": "Sagar",
+    "English": 50,
+    "Maths":60,
+    "Science":79,
+    "History":80,
+    "TotalMarks":400,
+    "ObtainedMarks":269
+    },
+    {
+        "Roll_NO": 2,
+        "Name": "Asish",
+        "English": 50,
+        "Maths":70,
+        "Science":40,
+        "History":50,
+        "TotalMarks":400,
+        "ObtainedMarks":210
+        },
+        {
+            "Roll_NO": 3,
+            "Name": "Nitesh",
+            "English": 60,
+            "Maths":70,
+            "Science":40,
+            "History":60,
+            "TotalMarks":400,
+            "ObtainedMarks":230
+            },
+            {
+                "Roll_NO": 4,
+                "Name": "Prathmesh",
+                "English": 70,
+                "Maths":80,
+                "Science":70,
+                "History":80,
+                "TotalMarks":400,
+                "ObtainedMarks":300
+                },
+                {
+                    "Roll_NO": 5,
+                    "Name": "Ritesh",
+                    "English": 70,
+                    "Maths":40,
+                    "Science":60,
+                    "History":90,
+                    "TotalMarks":400,
+                    "ObtainedMarks":260
+                    }
+]

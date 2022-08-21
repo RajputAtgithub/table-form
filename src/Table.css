@@ -1,0 +1,33 @@
+th, td {
+    /* border: 1px solid black; */
+    text-align: center;
+    width: calc(100vw/8);
+  }
+.table-header{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    position: relative;
+    width:100%;
+    
+    
+}
+
+.data_table{
+    /* border: 1px solid rgb(251, 232, 22); */
+    width: 100%;
+    column-gap: 2px;
+    display: flex;
+    justify-content: flex-start;
+    color: red;
+    position: relative;
+}
+/* .Roll_NO,.Name,.English,.Maths{
+    width:5vw;
+}
+.Science,.History{
+    width:6vw;
+}
+.TotalMarks,.ObtainedMarks{
+    width: 6vw;
+} */
